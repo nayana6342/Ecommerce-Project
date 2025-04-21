@@ -131,6 +131,7 @@ const Navbar = () => {
               <SearchIcon/>&nbsp;&nbsp;&nbsp;
             <ShoppingCartIcon /> &nbsp;&nbsp;
             <Button color="inherit">Login / Register</Button>
+            <Button color="inherit">Contact us</Button>
           </Toolbar>
         </AppBar>
       </Box>
